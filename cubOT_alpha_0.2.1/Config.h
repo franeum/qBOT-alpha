@@ -15,9 +15,9 @@
 #define LEDRANGE    10      //  LED RANGE RESOLUTION (default 10 bit, min: 2)
 #define IMUDELAY    40      //  IMU DELAY BETWEEN SENDING MESSAGES 
 
-char ssid[]             = "NETGEAR50";                 //  NETWORK NAME (SET MANUALLY)
-char pass[]             = "vanillaphoenix606";        //  NETWORK PASSWORD (SET MANUALLY)
-const byte remoteip[]   = { 192, 168, 0, 4 };    //  REMOTE IP (SET MANUALLY)
+char ssid[]             = "--------";             //  NETWORK NAME (SET MANUALLY)
+char pass[]             = "--------";             //  NETWORK PASSWORD (SET MANUALLY)
+const byte remoteip[]   = { 192, 168, 0, 4 };     //  REMOTE IP (SET MANUALLY)
 
 
 
